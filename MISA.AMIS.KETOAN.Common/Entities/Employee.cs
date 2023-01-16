@@ -31,7 +31,7 @@ namespace MISA.AMIS.KETOAN.Common
         /// <summary>
         /// Giới tính
         /// </summary>
-        public int Gender { get; set; }
+        public Gender Gender { get; set; }
 
         /// <summary>
         /// ID đơn vị

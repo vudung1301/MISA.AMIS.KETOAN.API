@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MISA.AMIS.KETOAN\MISA.AMIS.KETOAN.API.csproj" />
+    <ProjectReference Include="..\MISA.AMIS.KETOAN.BL\MISA.AMIS.KETOAN.BL.csproj" />
   </ItemGroup>
 
 </Project>

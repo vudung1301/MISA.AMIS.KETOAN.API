@@ -9,12 +9,12 @@ namespace MISA.AMIS.KETOAN.Common
     public enum Gender
     {
         /// <summary>
-        /// Nam
+        /// Nữ
         /// </summary>
         MALE = 0,
 
         /// <summary>
-        /// Nữ
+        /// Nam
         /// </summary>
         FEMALE = 1,
 

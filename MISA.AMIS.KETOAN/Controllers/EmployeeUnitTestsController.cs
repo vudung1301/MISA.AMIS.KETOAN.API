@@ -10,7 +10,7 @@ namespace MISA.AMIS.KETOAN.API.Controllers
 
         /// <summary>
         /// API thêm mới nhân viên
-        /// Author: NVQUY(25/12/2022)
+        /// Author: DungNP(25/12/2022)
         /// </summary>
         /// <param name="employee">Đối tượng nhân viên cần thêm mới</param>
         /// <returns>
